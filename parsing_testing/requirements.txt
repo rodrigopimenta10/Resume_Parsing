@@ -29,7 +29,7 @@ lxml==3.8.0
 MarkupSafe==1.0
 matplotlib==2.0.2
 murmurhash==0.26.4
-numpy==1.13.0
+numpy==1.21.0
 olefile==0.44
 pandas==0.20.2
 pathlib==1.0.1
